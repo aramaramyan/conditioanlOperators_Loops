@@ -34,11 +34,11 @@ ___
 [7_isContainDigit.js](7_isContainDigit.js)
 ___
 
-***8 Enter a number. Reverse its first and last digits. Print the new number.***
+***8 Enter a number. Reverse its first and last digits. Print the new number.***\
 [8_firstLastReverse.js](8_firstLastReverse.js)
 ___
 
-***9 Insert a number. Print ‘yesʼ if the number is prime, ‘noʼ otherwise.***
+***9 Insert a number. Print ‘yesʼ if the number is prime, ‘noʼ otherwise.***\
 [9_isPrime.js](9_isPrime.js)
 ___
 
